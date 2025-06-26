@@ -11,3 +11,8 @@ Most of this work is in **private repositories**, but you can view my profession
 🔗 [@RichardNorton (Work GitHub Account)](https://github.com/RichardNorton)
 
 > 🛡️ Private contributions are not publicly visible, but I actively contribute to internal tools and product features at scale.
+
+## 📊 Coding Stats
+
+<!-- Live WakaTime badge -->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=wakatime@geekatwork.net)
