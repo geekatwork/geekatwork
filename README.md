@@ -1,6 +1,6 @@
 ## 💼 Professional Work
 
-By day, I work as a developer at [iQualify](https://iqualify.com), where I:
+By day, I work as a developer at [iQualify](https://www.iqualify.com), where I:
 
 - Build and maintain a large-scale educational platform
 - Focus on accessibility, responsive UI, and clean code structure
