@@ -15,4 +15,4 @@ Most of this work is in **private repositories**, but you can view my profession
 ## 📊 Coding Stats
 
 <!-- Live WakaTime badge -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=wakatime@geekatwork.net)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekatwork)
