@@ -1,16 +1,13 @@
-## Hi there 👋
+## 💼 Professional Work
 
-<!--
-**geekatwork/geekatwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+By day, I work as a developer at [iQualify](https://iqualify.com), where I:
 
-Here are some ideas to get you started:
+- Build and maintain a large-scale educational platform
+- Focus on accessibility, responsive UI, and clean code structure
+- Collaborate on design systems, authoring tools, and analytics dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of this work is in **private repositories**, but you can view my professional GitHub account here:
+
+🔗 [@RichardNorton (Work GitHub Account)](https://github.com/RichardNorton)
+
+> 🛡️ Private contributions are not publicly visible, but I actively contribute to internal tools and product features at scale.
